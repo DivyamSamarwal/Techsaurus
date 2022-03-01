@@ -17,12 +17,11 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Powerful Translator</>,
+    imageUrl: 'img/translator.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Translates <code>100+</code> languages with over 80% accuracy.
       </>
     ),
   },
