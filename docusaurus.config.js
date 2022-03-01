@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'AutoBot',
+  tagline: 'A multi-functional discord bot.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/auto.ico',
+  organizationName: 'AutoBot Inc.', // Usually your GitHub org/user name.
+  projectName: 'Autobot', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'AutoBot',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} AutoBot, Inc. Built with Discord.py`,
     },
   },
   presets: [
