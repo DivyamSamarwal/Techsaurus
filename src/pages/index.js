@@ -26,12 +26,11 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>High Quality Music</>,
+    imageUrl: 'img/music.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Works on Lavalink server and can play music with Youtube and Spotify platform
       </>
     ),
   },
@@ -57,8 +56,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={` ${siteConfig.title}`}
+      description="Autobot, Inc. By Divyam Samarwal <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
