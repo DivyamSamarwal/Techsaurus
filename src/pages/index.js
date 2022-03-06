@@ -26,6 +26,15 @@ const features = [
     ),
   },
   {
+    title: <>Fun and Anime</>,
+    imageUrl: 'img/anime.svg',
+    description: (
+      <>
+        Get the latest news, anime info and character ratings at discord. <code>12+</code> commands. 
+      </>
+    ),
+  }, 
+  {
     title: <>High Quality Music</>,
     imageUrl: 'img/music.svg',
     description: (
