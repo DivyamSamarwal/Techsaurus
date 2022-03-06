@@ -33,7 +33,16 @@ const features = [
         Get the latest news, anime info and character ratings at discord. <code>12+</code> commands. 
       </>
     ),
-  }, 
+  },
+  {
+    title: <>Weather</>,
+    imageUrl: 'img/weather.svg',
+    description: (
+      <>
+        Current weather of <code>city_name</code> with temperature <code>°C</code>, Humidity <code>%</code> and Atmospheric Pressure <code>hPa</code>
+      </>
+    ),
+  },   
   {
     title: <>High Quality Music</>,
     imageUrl: 'img/music.svg',
