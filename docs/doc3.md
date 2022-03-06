@@ -1,3 +1,7 @@
+---
+id: doc3
+title: About
+---
 
 :::note
 
