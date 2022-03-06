@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/anime.svg',
     description: (
       <>
-        Get the latest news, anime info and character ratings at discord <code>12+</code> commands. 
+        Get the latest news, anime info and character ratings at discord <code>12+</code> commands, akinator and some random image generators.
       </>
     ),
   },
@@ -42,7 +42,16 @@ const features = [
         Current weather of <code>city_name</code> with temperature <code>°C</code>, Humidity <code>%</code> and Atmospheric Pressure <code>hPa</code>
       </>
     ),
-  },   
+  },
+  {
+    title: <>Utility</>,
+    imageUrl: 'img/mod.svg',
+    description: (
+      <>
+        There are many of Utility and moderation commands which will help in moderation like <code>info, slowmode, lock/unlock, reminder etc.</code>
+      </>
+    ),
+  },      
   {
     title: <>High Quality Music</>,
     imageUrl: 'img/music.svg',
