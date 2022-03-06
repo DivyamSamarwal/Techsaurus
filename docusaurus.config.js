@@ -33,8 +33,8 @@ module.exports = {
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'About',
+              to: 'docs/doc3',
             },
           ],
         },
