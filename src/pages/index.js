@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/anime.svg',
     description: (
       <>
-        Get the latest news, anime info and character ratings at discord. <code>12+</code> commands. 
+        Get the latest news, anime info and character ratings at discord <code>12+</code> commands. 
       </>
     ),
   },
@@ -48,7 +48,7 @@ const features = [
     imageUrl: 'img/music.svg',
     description: (
       <>
-        Works on Lavalink server and can play music with Youtube and Spotify platform
+        Works on Lavalink server and can play music with Youtube and Spotify platform.
       </>
     ),
   },
