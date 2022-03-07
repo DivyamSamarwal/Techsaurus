@@ -29,8 +29,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'Commands',
+              to: 'docs/doc2',
             },
             {
               label: 'About',
