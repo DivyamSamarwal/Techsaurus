@@ -53,8 +53,8 @@ title: Docs
 ### **translate**
 `Translates from given language to specified language.`
 #### Shortforms for translating. :)
-:::note
-'af': 'afrikaans', 'sq': 'albanian',
+
+`'af': 'afrikaans', 'sq': 'albanian',
 'am': 'amharic', 'ar': 'arabic',
 'hy': 'armenian', 'az': 'azerbaijani', 
 'eu': 'basque', 'be': 'belarusian', 
@@ -106,6 +106,5 @@ title: Docs
 'vi': 'vietnamese', 'cy': 'welsh', 
 'xh': 'xhosa', 'yi': 'yiddish', 
 'yo': 'yoruba', 'zu': 'zulu', 
-'fil': 'Filipino', 'he': 'Hebrew'
-:::
+'fil': 'Filipino', 'he': 'Hebrew'`
   
