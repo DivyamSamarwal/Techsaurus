@@ -52,8 +52,8 @@ title: Docs
 
 ### **translate**
 `Translates from given language to specified language.`
-:::tip
 #### Shortforms for translating. :)
+:::note
 `'af': 'afrikaans', 'sq': 'albanian',
 'am': 'amharic', 'ar': 'arabic',
 'hy': 'armenian', 'az': 'azerbaijani', 
