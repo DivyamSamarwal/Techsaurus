@@ -55,6 +55,14 @@ module.exports = {
           title: 'More',
           items: [
             {
+              label: 'Patreon',
+              href: 'https://www.patreon.com/AutoBot0521',
+            },
+            {
+              label: 'Top.gg',
+              href: 'https://top.gg/bot/858965828716331019/vote',
+            },                          
+            {
               label: 'GitHub',
               href: 'https://github.com/DivyamSamarwal/Autobot',
             },
