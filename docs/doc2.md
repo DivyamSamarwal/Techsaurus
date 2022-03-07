@@ -51,6 +51,41 @@ title: Docs
 `Remindes you at given time about specified thing.`
 
 ### **translate**
-`Translates from given language to specified language.`
-`click on the `[link](https://github.com/DivyamSamarwal/Autobot/blob/main/README.md#shortforms-for-translation)`to check short forms for translation.`
+`Translates from given language to specified language and click on the `[link](https://github.com/DivyamSamarwal/Autobot/blob/main/README.md#shortforms-for-translation)`to check short forms for translation.`
+
+### **afk**
+`Set an AFK status to display when you are mentioned.`
+
+### **lock**
+`Changes the channel message_permission = False and locks the channel for @everyone.`
+
+### **unlock**
+`Unlocks the locked the channel and requires manage_channel = True`
+
+### **slowmode**
+`Enables customised slowmode in the channel.For example &slowmode 190s.`
+
+### **role**
+`Add or remove role to given user.`
+
+### **nick**
+`Change the nickname of server member.`
+
+### **weather**
+`Shows the current weather conditions of given city.`
+
+### **math**
+`Do some math stuff with bot.`
+
+### **anime**
+`Get some useful information about given anime.`
+
+### **character**
+`Shows image and some info about given character.`
+
+### **music**
+`connect,disconnect,play,skip,pause,resume,seek <seconds>,volume <vol>,loop,nowplaying,queue.`
+
+### **Other commands**
+`dog,cat,meme,waifu,kiss,cry,cuddle,bully,wink,slap,hug,pat.`
   
