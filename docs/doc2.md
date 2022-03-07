@@ -31,3 +31,6 @@ title: Docs
 
  **avatar** => `Shows your avatar or specified user avatar.`
 
+ **imagine** => `Tries to imagine specified thing.`
+
+ **reminder** => `Tries to imagine specified thing.`
