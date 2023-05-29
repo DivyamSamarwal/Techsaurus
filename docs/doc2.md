@@ -20,7 +20,7 @@ title: Commands
 ### **serverinfo**
 `Shows information about the specified server.`
 
-### **purge <integer:n>**
+### **clean <integer:n>**
 `Purges messages according to amount given.`
 
 ### **poll**
@@ -74,15 +74,6 @@ title: Commands
 ### **math**
 `Do some math stuff with bot.`
 
-### **anime**
-`Get some useful information about given anime.`
-
-### **character**
-`Shows image and some info about given character.`
-
-### **music**
-`connect,disconnect,play,skip,pause,resume,seek <seconds>,volume <vol>,loop,nowplaying,queue.`
-
 ### **Other commands**
-`dog,cat,meme,waifu,kiss,cry,cuddle,bully,wink,slap,hug,pat.`
+`cat,meme,waifu,kiss,cry,cuddle,bully,wink,slap,hug,pat.`
   
