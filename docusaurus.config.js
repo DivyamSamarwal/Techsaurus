@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'A multi-functional discord bot.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/auto.ico',
+  favicon: 'img/autobot.png',
   organizationName: 'AutoBot Inc.', // Usually your GitHub org/user name.
   projectName: 'Autobot', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'AutoBot',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/autobot.png',
       },
       links: [
         {
