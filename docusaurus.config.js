@@ -56,7 +56,7 @@ module.exports = {
           items: [
             {
               label: 'Patreon',
-              href: 'https://www.patreon.com/AutoBot0521',
+              href: 'https://www.patreon.com/DivyamSamarwal',
             },
             {
               label: 'Top.gg',

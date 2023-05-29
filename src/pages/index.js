@@ -57,7 +57,7 @@ const features = [
     imageUrl: 'img/music.svg',
     description: (
       <>
-        Works on Lavalink server and can play music with Youtube and Spotify platform.
+        This service has been discontinued due to discord's new policy.
       </>
     ),
   },
