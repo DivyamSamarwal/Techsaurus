@@ -14,7 +14,7 @@ Divyam Samarwal
 🌏 New Delhi, India
 
 ☢️ Coding, Maths and Physics.
-[Website](https://divyamsamarwal.me/)
+[Website](https://divyamsamarwal.github.io/)
 
 :::
 
@@ -32,7 +32,7 @@ flask="2.3.2"
 :::
 
 :::caution
-If you find any bug, feel free to message me `Divyam#7497`
+If you find any bug, feel free to message me `divyamsamarwal`
 Or join discord help server, click the [link](https://discord.gg/nUFxsaGMQq).
 
 :::
